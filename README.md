@@ -1,7 +1,7 @@
 ### College Dunia Hiring Challenge<br>
 <hr> 
 
-> Deployed [Firebase]:<br>
+> Deployed [Firebase]: https://collegedunia-cd847.web.app/ <br>
 <hr>
 > Running in Local System <br>
 - Clone the repositary <br>
